@@ -1,0 +1,47 @@
+[
+  {
+    "PlayerSelection": "PAPER",
+    "ComputerGenerated": "SCISSORS",
+    "Winner": "COMPUTER WON"
+  },
+  {
+    "PlayerSelection": "PAPER",
+    "ComputerGenerated": "ROCK",
+    "Winner": " PLAYER WON"
+  },
+  {
+    "PlayerSelection": "PAPER",
+    "ComputerGenerated": "ROCK",
+    "Winner": " PLAYER WON"
+  },
+  {
+    "PlayerSelection": "PAPER",
+    "ComputerGenerated": "ROCK",
+    "Winner": " PLAYER WON"
+  },
+  {
+    "PlayerSelection": "PAPER",
+    "ComputerGenerated": "ROCK",
+    "Winner": " PLAYER WON"
+  },
+  {
+    "PlayerSelection": "PAPER",
+    "ComputerGenerated": "SCISSORS",
+    "Winner": "COMPUTER WON"
+  },
+  {
+    "PlayerSelection": "PAPER",
+    "ComputerGenerated": "PAPER",
+    "Winner": "TIED"
+  },
+  {
+    "PlayerSelection": "PAPER",
+    "ComputerGenerated": "ROCK",
+    "Winner": " PLAYER WON"
+  },
+  {
+    "PlayerSelection": "PAPER",
+    "ComputerGenerated": "SCISSORS",
+    "Winner": "COMPUTER WON"
+  }
+]

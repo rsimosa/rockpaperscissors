@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBXLkTdZCmyYL5CFmkG9Tp5FfrAJXu2Rvn/BubpLZzY2DEv+qIfkPY4/nkSp5xZcTmvHTM8UbbIWPqWBQwWb6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NEDL\\source\\repos\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NEDL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
